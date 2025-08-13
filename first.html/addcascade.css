@@ -36,9 +36,9 @@ nav button{
         padding:0.7vw 1.4vw;
         background-color: blueviolet;
         color: #fff;
-        border:none
+        border:none;
         border-radius: 5px;
-        font-weight: 00;
+        font-weight: 100;
 }
 nav i{
         font-size: 2vw;
@@ -79,7 +79,7 @@ nav i{
         padding:1vw 2vw;
         background-color: blueviolet;
         color: #fff;
-        border:none
+        border:none;
         border-radius: 5px;
         font-weight: 700;
     }
